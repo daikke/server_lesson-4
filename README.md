@@ -1,0 +1,9 @@
+## 1-5
+- ls
+- touch
+- cd
+- cp
+- mkdir
+- mv
+- vi
+- rm
