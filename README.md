@@ -7,3 +7,4 @@
 - mv
 - vi
 - rm
+- cat
